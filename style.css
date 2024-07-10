@@ -23,6 +23,9 @@ body{
 .logo{
     margin-left: 5px;
 }
+select:hover{
+    background-color: white;
+}
 .search{
     margin-left: 40px;
     border: none;
